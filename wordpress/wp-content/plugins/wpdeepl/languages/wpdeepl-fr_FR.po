@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DeepL Pro for WordPress : translation plugin, Pro "
+"Version\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-30 15:14+0000\n"
+"PO-Revision-Date: 2020-10-30 15:15+0000\n"
+"Last-Translator: \n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.4; wp-5.5.2"
+
+#: deepl-configuration.class.php:106
+msgid "Replace content"
+msgstr "Remplacer le contenu"
+
+#: deepl-configuration.class.php:107
+msgid "Append to content"
+msgstr "Ajouter au contenu"
+
+#: deepl-configuration.class.php:405
+#, php-format
+msgid "Translate to %s"
+msgstr "Traduire en %s"
+
+#: deepl-configuration.class.php:406
+#, php-format
+msgid "Translated %d posts."
+msgstr "%d éléments traduits"
+
+#: deepl-configuration.class.php:407
+msgid "Bulk translate"
+msgstr "Traduction par lots"
+
+#: deepl-configuration.class.php:408
+msgid "Content types"
+msgstr "Types de contenu"
+
+#: deepl-configuration.class.php:409
+msgid "Translate contents"
+msgstr "Traduire ces types"
+
+#: deepl-configuration.class.php:410
+msgid "Select which kind of content you want to be able to translate"
+msgstr "Choisir les types de contenu que vous voulez traduire"
+
+#: deepl-configuration.class.php:411
+msgid "Target languages for bulk actions"
+msgstr "Langues cibles pour la traduction en masse"
+
+#: deepl-configuration.class.php:412
+msgid "Show these target languages in bulk menu"
+msgstr "Afficher ces languages dans le menu d'Edition en masse"
+
+#: wpdeepl.php:67
+msgid "Error loading WPDeepL"
+msgstr "Erreur de chargement WPDeepL"
+
+#: wpdeepl.php:95
+msgid "Settings"
+msgstr "Réglages"
+
+#: admin/deepl-admin-functions.php:24
+msgid "Automatic"
+msgstr "Automatique"
+
+#: admin/deepl-admin-functions.php:45
+msgid "Dont't translate"
+msgstr "Ne pas traduire"
+
+#: admin/deepl-admin-functions.php:55
+msgid "Clear logs"
+msgstr "Effacer les logs"
+
+#: admin/deepl-admin-functions.php:67
+msgid "Log files deleted"
+msgstr "Fichiers log supprimés"
+
+#: admin/deepl-admin-functions.php:83
+msgid "Logs"
+msgstr "Logs"
+
+#: admin/deepl-admin-functions.php:94
+#, php-format
+msgid "File '%s' for %s"
+msgstr "Fichier '%s' pour %s"
+
+#: admin/deepl-admin-functions.php:110
+msgid "No log files"
+msgstr "Pas de fichier log"
+
+#: admin/deepl-metabox.php:40
+#, php-format
+msgid "Source language '%s' not valid"
+msgstr "Langue source '%s' non valide"
+
+#: admin/deepl-metabox.php:43 client/deeplapi-functions.php:13
+#, php-format
+msgid "Target language '%s' not valid"
+msgstr "Langue cible '%s' non valide"
+
+#: admin/deepl-metabox.php:66
+#: settings/wp-improved-settings-wpdeepl.class.php:25
+msgid "DeepL translation"
+msgstr "Traduction DeepL"
+
+#: admin/deepl-metabox.php:81
+msgid "Translating to"
+msgstr "Traduire en"
+
+#: admin/deepl-metabox.php:90
+msgid "Translate"
+msgstr "Traduire"
+
+#: admin/deepl-metabox.php:123
+msgid "Gutenberg is not compatible with WPDeepL yet. Please use Classic Editor"
+msgstr ""
+"Gutenberg n'est pas (encore) compatible avec WPDeepL. Merci d'utiliser "
+"l'éditeur classique."
+
+#: client/deeplapi-functions.php:39
+msgid "Usage"
+msgstr "Utilisation"
+
+#: client/deeplapi-functions.php:52
+#, php-format
+msgid "%s characters remaining"
+msgstr "%s caractères restants"
+
+#: client/deeplapi-functions.php:54
+#, php-format
+msgid "%s / %s characters translated"
+msgstr "%s / %s caractères traduits"
+
+#: client/deeplapi-functions.php:56
+#, php-format
+msgid "Request done in: %f milliseconds"
+msgstr "Requête effectuée en %f millisecondes"
+
+#: settings/wp-improved-settings.class.php:547
+#, php-format
+msgid "Log file %s deleted"
+msgstr "Fichier de log %s supprimé"
+
+#: settings/wp-improved-settings-wpdeepl.class.php:21
+msgid "DeepL settings"
+msgstr "Réglages DeepL"
+
+#: settings/wp-improved-settings-wpdeepl.class.php:48
+#, php-format
+msgid "<li><a href=\"%s\">%s</a></li>"
+msgstr "<li><a href=\"%s\">%s</a></li>"
+
+#: settings/wp-improved-settings-wpdeepl.class.php:56
+#, php-format
+msgid "The DeepL plugin is not fully configured yet: <ul>%s</ul>"
+msgstr "Le plugin DeepL n'est pas encore configuré : <ul>%s</ul>"
+
+#: settings/wp-improved-settings-wpdeepl.class.php:61
+#, php-format
+msgid "<a href=\"%s\">Please provide required informations</a>"
+msgstr "<a href=\"%s\">Merci de compléter les informations nécessaires</a>"
+
+#: settings/wp-improved-settings-wpdeepl.class.php:73
+msgid "Credentials"
+msgstr "Identifiants"
+
+#: settings/wp-improved-settings-wpdeepl.class.php:77
+#: settings/wp-improved-settings-wpdeepl.class.php:117
+msgid "Translation"
+msgstr "Traduction"
+
+#: settings/wp-improved-settings-wpdeepl.class.php:81
+msgid "Integration"
+msgstr "Intégration"
+
+#: settings/wp-improved-settings-wpdeepl.class.php:85
+msgid "Maintenance"
+msgstr "Maintenance"
+
+#: settings/wp-improved-settings-wpdeepl.class.php:93
+msgid "DeepL credentials"
+msgstr "Identifiants DeepL"
+
+#: settings/wp-improved-settings-wpdeepl.class.php:98
+msgid "API Key"
+msgstr "Clef API"
+
+#: settings/wp-improved-settings-wpdeepl.class.php:102
+#, php-format
+msgid ""
+"<a target=\"_blank\" href=\"%s\">Create a DeepL Pro account here</a>. Get "
+"your <a target=\"_blank\" href=\"%s\">API key there</a>"
+msgstr ""
+"<a target=\"_blank\" href=\"%s\">Créez un compte DeepL Pro Dev sur cette "
+"age</a>, puis <a target=\"_blank\" href=\"%s\">récupérez votre clef API "
+"ici</a>"
+
+#: settings/wp-improved-settings-wpdeepl.class.php:121
+msgid "Default target language"
+msgstr "Langue de traduction par défaut"
+
+#: settings/wp-improved-settings-wpdeepl.class.php:144
+msgid "Metabox"
+msgstr "Métabox"
+
+#: settings/wp-improved-settings-wpdeepl.class.php:148
+msgid "Metabox should be displayed on:"
+msgstr "Afficher la métabox sur :"
+
+#: settings/wp-improved-settings-wpdeepl.class.php:152
+msgid "Select which post types you want the metabox to appear on"
+msgstr "Sélectionner les types de post où afficher la métabox"
+
+#: settings/wp-improved-settings-wpdeepl.class.php:156
+msgid "Metabox behaviour"
+msgstr "Comportement de la métabox"
+
+#: settings/wp-improved-settings-wpdeepl.class.php:160
+msgid ""
+"For content to be appended, you need to use a supported multilingual plugin"
+msgstr ""
+"Pour ajouter au contenu, vous devez utiliser un plugin multilingue compatible"
+
+#: settings/wp-improved-settings-wpdeepl.class.php:164
+msgid "Metabox context"
+msgstr "Contexte de la metabox"
+
+#: settings/wp-improved-settings-wpdeepl.class.php:172
+msgid ""
+"<a href=\"https://developer.wordpress."
+"org/reference/functions/add_meta_box/\">See add_meta_box function "
+"reference</a>"
+msgstr ""
+"<a href=\"https://developer.wordpress."
+"org/reference/functions/add_meta_box/\">Voir la documentation "
+"add_meta_box</a>"
+
+#: settings/wp-improved-settings-wpdeepl.class.php:176
+msgid "Metabox priority"
+msgstr "Priorité de la metabox"
+
+#: settings/wp-improved-settings-wpdeepl.class.php:189
+msgid "Logging"
+msgstr "Log d'activité"
+
+#: settings/wp-improved-settings-wpdeepl.class.php:193
+msgid "Log level"
+msgstr "Niveau de déail"
+
+#: settings/wp-improved-settings-wpdeepl.class.php:196
+msgid "None"
+msgstr "Aucun"
+
+#: settings/wp-improved-settings-wpdeepl.class.php:197
+msgid "Minimal"
+msgstr "Réduit"
+
+#: settings/wp-improved-settings-wpdeepl.class.php:198
+msgid "Full"
+msgstr "Complet"
+
+#: settings/wp-improved-settings-wpdeepl.class.php:209
+msgid "Delete logs from previous months"
+msgstr "Supprimer les logs des mois précédents"
+
+#. Name of the plugin
+msgid "DeepL for WordPress : translation plugin"
+msgstr "DeepL pour WordPress : traduction"
+
+#. Description of the plugin
+msgid ""
+"Get DeepL translation magic right inside your WordPress editor (with a paid "
+"DeepL Pro account)"
+msgstr ""
+"Traduisez vos articles WordPress avec l'API DeepL Pro (nécessite un compte "
+"DeepL Pro payant)"
+
+#. Author of the plugin
+msgid "Fluenx"
+msgstr "Fluenx"
+
+#. Author URI of the plugin
+msgid "https://www.fluenx.com/"
+msgstr "https://www.fluenx.com/"

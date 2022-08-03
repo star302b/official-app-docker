@@ -1,0 +1,279 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DeepL for WordPress : translation plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-30 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.3"
+
+#: deepl-configuration.class.php:106
+msgid "Replace content"
+msgstr ""
+
+#: deepl-configuration.class.php:107
+msgid "Append to content"
+msgstr ""
+
+#: deepl-configuration.class.php:405
+#, php-format
+msgid "Translate to %s"
+msgstr ""
+
+#: deepl-configuration.class.php:406
+#, php-format
+msgid "Translated %d posts."
+msgstr ""
+
+#: deepl-configuration.class.php:407
+msgid "Bulk translate"
+msgstr ""
+
+#: deepl-configuration.class.php:408
+msgid "Content types"
+msgstr ""
+
+#: deepl-configuration.class.php:409
+msgid "Translate contents"
+msgstr ""
+
+#: deepl-configuration.class.php:410
+msgid "Select which kind of content you want to be able to translate"
+msgstr ""
+
+#: deepl-configuration.class.php:411
+msgid "Target languages for bulk actions"
+msgstr ""
+
+#: deepl-configuration.class.php:412
+msgid "Show these target languages in bulk menu"
+msgstr ""
+
+#: wpdeepl.php:67
+msgid "Error loading WPDeepL"
+msgstr ""
+
+#: wpdeepl.php:95
+msgid "Settings"
+msgstr ""
+
+#: admin/deepl-admin-functions.php:24
+msgid "Automatic"
+msgstr ""
+
+#: admin/deepl-admin-functions.php:45
+msgid "Dont't translate"
+msgstr ""
+
+#: admin/deepl-admin-functions.php:55
+msgid "Clear logs"
+msgstr ""
+
+#: admin/deepl-admin-functions.php:67
+msgid "Log files deleted"
+msgstr ""
+
+#: admin/deepl-admin-functions.php:83
+msgid "Logs"
+msgstr ""
+
+#: admin/deepl-admin-functions.php:94
+#, php-format
+msgid "File '%s' for %s"
+msgstr ""
+
+#: admin/deepl-admin-functions.php:110
+msgid "No log files"
+msgstr ""
+
+#: admin/deepl-metabox.php:40
+#, php-format
+msgid "Source language '%s' not valid"
+msgstr ""
+
+#: admin/deepl-metabox.php:43 client/deeplapi-functions.php:13
+#, php-format
+msgid "Target language '%s' not valid"
+msgstr ""
+
+#: admin/deepl-metabox.php:66
+#: settings/wp-improved-settings-wpdeepl.class.php:25
+msgid "DeepL translation"
+msgstr ""
+
+#: admin/deepl-metabox.php:81
+msgid "Translating to"
+msgstr ""
+
+#: admin/deepl-metabox.php:90
+msgid "Translate"
+msgstr ""
+
+#: admin/deepl-metabox.php:123
+msgid "Gutenberg is not compatible with WPDeepL yet. Please use Classic Editor"
+msgstr ""
+
+#: client/deeplapi-functions.php:39
+msgid "Usage"
+msgstr ""
+
+#: client/deeplapi-functions.php:52
+#, php-format
+msgid "%s characters remaining"
+msgstr ""
+
+#: client/deeplapi-functions.php:54
+#, php-format
+msgid "%s / %s characters translated"
+msgstr ""
+
+#: client/deeplapi-functions.php:56
+#, php-format
+msgid "Request done in: %f milliseconds"
+msgstr ""
+
+#: settings/wp-improved-settings.class.php:547
+#, php-format
+msgid "Log file %s deleted"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:21
+msgid "DeepL settings"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:48
+#, php-format
+msgid "<li><a href=\"%s\">%s</a></li>"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:56
+#, php-format
+msgid "The DeepL plugin is not fully configured yet: <ul>%s</ul>"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:61
+#, php-format
+msgid "<a href=\"%s\">Please provide required informations</a>"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:73
+msgid "Credentials"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:77
+#: settings/wp-improved-settings-wpdeepl.class.php:117
+msgid "Translation"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:81
+msgid "Integration"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:85
+msgid "Maintenance"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:93
+msgid "DeepL credentials"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:98
+msgid "API Key"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:102
+#, php-format
+msgid ""
+"<a target=\"_blank\" href=\"%s\">Create a DeepL Pro account here</a>. Get "
+"your <a target=\"_blank\" href=\"%s\">API key there</a>"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:121
+msgid "Default target language"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:144
+msgid "Metabox"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:148
+msgid "Metabox should be displayed on:"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:152
+msgid "Select which post types you want the metabox to appear on"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:156
+msgid "Metabox behaviour"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:160
+msgid ""
+"For content to be appended, you need to use a supported multilingual plugin"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:164
+msgid "Metabox context"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:172
+msgid ""
+"<a href=\"https://developer.wordpress."
+"org/reference/functions/add_meta_box/\">See add_meta_box function "
+"reference</a>"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:176
+msgid "Metabox priority"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:189
+msgid "Logging"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:193
+msgid "Log level"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:196
+msgid "None"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:197
+msgid "Minimal"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:198
+msgid "Full"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:209
+msgid "Delete logs from previous months"
+msgstr ""
+
+#. Name of the plugin
+msgid "DeepL for WordPress : translation plugin"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Get DeepL translation magic right inside your WordPress editor (with a paid "
+"DeepL Pro account)"
+msgstr ""
+
+#. Author of the plugin
+msgid "Fluenx"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.fluenx.com/"
+msgstr ""

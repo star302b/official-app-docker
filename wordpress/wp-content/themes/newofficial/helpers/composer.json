@@ -1,0 +1,5 @@
+{
+    "require": {
+        "babymarkt/deepl-php-lib": "^3.1"
+    }
+}
