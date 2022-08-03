@@ -84,7 +84,7 @@ define( 'WP_DEBUG', false );
 /* Add any custom values between this line and the "stop editing" line. */
 
 define('WP_SITEURL', $_SERVER['REQUEST_SCHEME'] . '://' . $_SERVER['HTTP_HOST'] );
-define('WP_HOME', $_SERVER['REQUEST_SCHEME'] . '://' . $_SERVER['HTTP_HOST'] . '/s' );
+define('WP_HOME', $_SERVER['REQUEST_SCHEME'] . '://' . $_SERVER['HTTP_HOST']  );
 
 
 /* That's all, stop editing! Happy publishing. */
